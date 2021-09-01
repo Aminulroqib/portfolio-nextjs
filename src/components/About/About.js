@@ -8,7 +8,7 @@ import { projects } from '../../constants/constants';
 
 
 const About = () => (
-  <Section nopadding id="projects">
+  <Section id="projects">
     <SectionDivider />
     <SectionTitle main>About Me</SectionTitle>
     <div className="row">
