@@ -10,7 +10,7 @@ export const FooterWrapper = styled.section`
 
   @media ${props => props.theme.breakpoints.sm} {
     padding: 0 16px 48px;
-    width: calc(100vw - 32px);
+    width: calc(120vw - 48px);
   }
 `
 
@@ -19,7 +19,7 @@ export const LinkItem = styled.a`
 	line-height: 30px;
 	color: rgba(255, 255, 255, 0.75);
 	margin-bottom: 16px;
-	transition: .3s ease;
+	transition: .3s ease;s
 	position: relative;
 	left: 0;
 
