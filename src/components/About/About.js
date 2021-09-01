@@ -15,7 +15,7 @@ const About = () => (
       <div className="col-md-6 order-1 order-lg-2 text-white d-flex justify-content-center flex-column abt-text-section">
       <SectionTitle>Hi {''}<span className='exclaim'>!</span></SectionTitle>
         <SectionText>
-          I'm Umar Khosru Shourav, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, voluptatibus! Illo, tenetur atque iure, sint mollitia quas earum unde officiis possimus, ut nostrum? Blanditiis qui, obcaecati tempora quas pariatur ipsa.
+          I'm Umar Khosru Sourav, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, voluptatibus! Illo, tenetur atque iure, sint mollitia quas earum unde officiis possimus, ut nostrum? Blanditiis qui, obcaecati tempora quas pariatur ipsa.
           </SectionText>
           <Link href="#education">
             <Button>Education</Button>
